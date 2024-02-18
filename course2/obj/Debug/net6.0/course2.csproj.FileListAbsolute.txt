@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\course2.exe
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\course2.deps.json
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\course2.runtimeconfig.json
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\course2.dll
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\course2.pdb
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.dll
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\refint\course2.dll
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.pdb
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\course2.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\obj\Debug\net6.0\ref\course2.dll
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\HtmlTags.json
+C:\Users\USER\Desktop\פרקטיקוד\course2\course2\bin\Debug\net6.0\HtmlVoidTags.json
